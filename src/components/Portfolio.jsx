@@ -27,9 +27,9 @@ const projects = [
     {
         img: project9,
         title: "Project #2",
-        description: "Netflix Clone: Interface for Browsing and Streaming Shows.",
+        description: "LesFemmes: Add Products, Vendors, and Categories.",
         links: {
-            github: "https://github.com/afzaljadoon/Netflix_clone",
+            github: "https://les.dominioninc.org/",
         },
     },
     {
@@ -55,9 +55,9 @@ const projects = [
     {
         img: project13,
         title: "Project #5",
-        description: "Movie List: Add Title, Director, and Release Year.",
+        description: "HR System: Add Employee, Department, and Joining Date.",
         links: {
-            github: "https://github.com/huzaifa898/aness",
+            github: "https://dashtime.ae/",
         },
     },
     {
